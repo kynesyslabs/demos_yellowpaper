@@ -11,7 +11,7 @@ This document reflects the Demos Network specifications as of 5 September 2025 a
 
 ## Usage
 
-If you just want to read the paper, simply open https://github.com/kynesyslabs/demos_yellowpaper/ypv6.pdf or build the PDF with the steps below and open `build/ypv6.pdf` . You can also open the produced PDF in your preferred viewer (Preview, Adobe Acrobat, Evince).
+If you just want to read the paper, simply open https://github.com/kynesyslabs/demos_yellowpaper/blob/main/ypv6.pdf or build the PDF with the steps below and open `build/ypv6.pdf` . You can also open the produced PDF in your preferred viewer (Preview, Adobe Acrobat, Evince).
 
 If you want to edit the paper, work directly on the LaTeX source (`ypv6.tex`) with an editor/IDE and recompile.
 
