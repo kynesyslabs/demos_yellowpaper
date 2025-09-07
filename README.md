@@ -4,6 +4,9 @@ License: CC BY-NC-ND 4.0
 
 The Demos Yellow Paper is a formal technical specification of the Demos Network (Omniweb data and interoperability layer), covering architecture, consensus (PoR-BFT), GCR, CVSA, native bridges, Liquidity Tanks, Web2 on-chain access, XM execution, ZK module, FHE, and more.
 
+## Mirrors and Publications
+
+You can find the published yellowpaper on [Academia.edu](https://www.academia.edu/143813441/Demos_Network_Yellowpaper).
 
 ## Repository Status
 
